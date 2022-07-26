@@ -1,6 +1,6 @@
 # Hello world, I am Lhais 👋
 
-<img src="./images/art-seguridad-logo.gif" alt="internet"/>
+<img src="./images/art-seguridad-logo.gif" alt="internet" width="45%"/>
 <img src="./images/tecnologia.gif" alt="internet"/>
 
 <!--
