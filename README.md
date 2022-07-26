@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://lica.ufra.edu.br/index.php?option=com_content&view=article&id=95:apresentacao&catid=2&Itemid=359&lang=pt" alt="internet"/>
+
 <!--
 **LhaisCosta99/LhaisCosta99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
