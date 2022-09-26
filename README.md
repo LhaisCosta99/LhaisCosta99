@@ -10,8 +10,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LhaisCosta99&theme=midnight-blue&hide_border=true" width="400px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LhaisCosta99&theme=midnight-blue&hide_border=true" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LhaisCosta99&theme=dark&hide_border=true" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LhaisCosta99&theme=dark&bl&hide_border=true" width="400px" />
 </p>
 
 ## More Contacts
