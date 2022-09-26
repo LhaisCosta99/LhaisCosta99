@@ -3,6 +3,10 @@
     <img src="./images/art-seguridad-logo.gif" alt="internet" width="45%"/>
     <img src="./images/tecnologia.gif" alt="internet"/>
 </div>
+
+
+ 
+## 🌱 I’m currently learning ...
 <!--
 **LhaisCosta99/LhaisCosta99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
