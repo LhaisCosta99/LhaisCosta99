@@ -10,10 +10,10 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LhaisCosta99&theme=midnight-blue&hide_border=true" width="500px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LhaisCosta99&theme=midnight-blue&hide_border=true" width="500px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LhaisCosta99&theme=midnight-blue&hide_border=true" width="300px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LhaisCosta99&theme=midnight-blue&hide_border=true" width="300px" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LhaisCosta99&layout=compact)
-hide_border=true" width="350px" />
+hide_border=true" width="200px" />
 </p>
 
 ## More Contacts
